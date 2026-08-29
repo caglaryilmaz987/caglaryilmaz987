@@ -120,16 +120,10 @@ flowchart LR
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=caglaryilmaz987&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caglaryilmaz987&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=caglaryilmaz987&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caglaryilmaz987&theme=tokyonight" width="48%" alt="Top Languages" />
+</p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=caglaryilmaz987&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
 
@@ -137,7 +131,7 @@ flowchart LR
 
 ---
 
-## 🐍 Contribution Activity Graph
+## 🐍 Real Contribution Activity Graph
 
 <div align="center">
   <img src="./github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
