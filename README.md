@@ -2,7 +2,7 @@
 
 <!-- Animated Header Banner -->
 <a href="https://github.com/caglaryilmaz987">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Sebahittin+%C3%87a%C4%9Flar+Y%C4%B1lmaz;Multi-Agentic+RAG+Systems+Architect;LLM+%26+Computer+Vision+Engineer;Building+100%25+Local%2C+Zero-Cloud+AI+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Sebahittin+%C3%87a%C4%9Flar+Y%C3%B1lmaz;Multi-Agentic+RAG+Systems+Architect;LLM+%26+Computer+Vision+Engineer;Building+100%25+Local%2C+Zero-Cloud+AI+Platforms" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -140,7 +140,7 @@ flowchart LR
 ## 🐍 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/caglaryilmaz987/caglaryilmaz987/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="./github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
@@ -151,10 +151,13 @@ flowchart LR
 
 <p align="center">
   <a href="https://linkedin.com/in/sebahittin-çağlar-yılmaz-008989197/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sebahittin%20%C3%87a%C4%9Flar%20Y%C3%B1lmaz-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Sebahittin_Çağlar_Yılmaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/caglaryilmaz987">
-    <img src="https://img.shields.io/badge/GitHub-caglaryilmaz987-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-caglaryilmaz987-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:caglaryilmaz987@gmail.com">
+    <img src="https://img.shields.io/badge/Email-caglaryilmaz987@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
